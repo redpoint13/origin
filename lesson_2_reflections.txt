@@ -1,0 +1,13 @@
+What happens when you initialize a repository? 
+	the .git directory is created and git starts monitoring the directory
+
+Why do you need to do it?
+	the .git directory will contain all the commits.
+
+How is the staging area different from the working directory and the repository? 
+	The staging area contains files added from the working directory.  
+	Staging area can be all or part of the files in the directory
+
+What value do you think it offers?
+	The staging area allow me to control what is in each commit and
+	to put the proper comment.
