@@ -23,3 +23,8 @@ What is the benefit of having a copy of the last known state of the remote store
 	changes can be merged
 	you know what the status of the files are
 	
+How would you collaborate without using Git or GitHub? 
+	email, in person, google docs
+
+What would be easier, and what would be harder?
+	having only one set of files could be easiser be slower
