@@ -7,3 +7,12 @@ Why might you want to always pull changes manually rather than having Git automa
 	Assure that public commits work properly
 	Control freature releases
 	More desisive
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	A fork is a clone on github
+	clones are exact copies of a repo
+	branches copies of the master with changes like adding expermintal features
+
+	Forks are only used on github when you don't have permission to colloarate
+	Use clone any time you'd like an exact copy for like multiple computers
+	branches are used make changes that are not reflected in the master branch.  They can later be merged but may always be different.
