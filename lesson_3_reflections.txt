@@ -28,3 +28,10 @@ How would you collaborate without using Git or GitHub?
 
 What would be easier, and what would be harder?
 	having only one set of files could be easiser be slower
+
+When would you want to make changes in a separate branch rather than directly in master? 
+	branching should be done when testing an idea or making changes that are not simple bug fixes
+
+What benefits does each approach have?
+	making changes directly in master makes the easily available
+	branching allows testing of changes and colloaboration
